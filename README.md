@@ -36,7 +36,6 @@ Este taller requiere una extensión (add-on) dentro de Orange.
 
 Una vez hecho esto, ya puedes participar en el taller!
 
----
 ## 📁 Contenido
 
 - `flujos/`: Archivos `.ows` con los flujos de Orange utilizados en cada mini-proyecto.
@@ -44,7 +43,6 @@ Una vez hecho esto, ya puedes participar en el taller!
 - `presentacion/`: Diapositivas utilizadas durante el taller.
 - `imagenes/`: Capturas de pantalla opcionales para acompañar las guías.
 
----
 
 ## 🧪 Mini-proyectos incluidos
 
@@ -54,20 +52,24 @@ Una vez hecho esto, ya puedes participar en el taller!
 ### 🔬 2. Agrupamiento de imágenes de curación ósea (Bone Healing)
 > Proyecto basado en imágenes microscópicas del proceso de cicatrización ósea. Se exploran técnicas no supervisadas como *t-SNE* y *k-means* para descubrir patrones visuales sin usar etiquetas.
 
----
+
 ## 🤝 Contribuciones
 Las contribuciones están más que bienvenida. Este repositorio busca servir como recurso abierto y útil para docentes, investigadores y personas interesadas en introducir la IA en entornos educativos.
-
----
 
 ## 📚 Licencia
 
 Este material se distribuye bajo la licencia MIT.
 
----
-
 ## 📇 Cómo citar este recurso
 
 Pending.
----
 
+## 👩‍💻 Autora
+
+Este material ha sido creado por:
+
+**Caterina Fuster-Barceló**  
+ORCID: [0000-0002-4784-6957](https://orcid.org/0000-0002-4784-6957)  
+Web: [cfusterbarcelo.github.io](https://caterinafb.github.io)
+
+Si tienes dudas, sugerencias o quieres usar este material en tu centro, ¡no dudes en escribirme!
