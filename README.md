@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1002068087.svg)](https://doi.org/10.5281/zenodo.15673221)
+
 # Introducción a la Inteligencia Artificial con Orange 🍊
 
 Este repositorio contiene los materiales de un taller introductorio sobre Inteligencia Artificial (IA) dirigido a estudiantes de educación secundaria. El taller utiliza la herramienta visual [Orange Data Mining](https://orangedatamining.com/) para que los alumnos y alumnas puedan explorar conceptos de IA sin necesidad de programar.
