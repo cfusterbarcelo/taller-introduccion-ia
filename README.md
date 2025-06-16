@@ -64,7 +64,11 @@ Este material se distribuye bajo la licencia MIT.
 
 ## 📇 Cómo citar este recurso
 
-Pending.
+Si usas este material, por favor cítalo de la siguiente forma:
+
+> Caterina Fuster-Barceló. (2025). *Taller de Introducción a la Inteligencia Artificial con Orange*. Zenodo. https://doi.org/10.5281/zenodo.15673222
+
+📌 DOI permanente: [10.5281/zenodo.15673222](https://doi.org/10.5281/zenodo.15673222)
 
 ## 👩‍💻 Autora
 
